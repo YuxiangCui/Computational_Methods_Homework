@@ -16,6 +16,7 @@ y=  
 0.027*x^3 + 0.361*x^2 + 1.744*x + 3.206(-4&lt;= x&lt;-3)
 0.0088*x^3 + 0.150*x^2 + 0.921*x + 2.134(-5&lt;= x&lt;-4) 
 对应的插值图像结果
+
 ![hermite_1.jpg](https://github.com/YuxiangCui/Computational_Methods_Homework/blob/master/homework_1/hermite_1.jpg)
 
 ![hermite_2.jpg](https://github.com/YuxiangCui/Computational_Methods_Homework/blob/master/homework_1/hermite_2.jpg)
